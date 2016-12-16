@@ -11,12 +11,16 @@ body {
     float: right;
 }
 #FacebookLogo{
-    width:6%;
+    width:8%;
     height:100%;
     background-color: lightgrey;
 }
+#LinkedInLogo{
+    width:75%;
+    height:100%;
+}
 #logo {
-    width:2%;
+    width:3%;
     height:100%;
 }
 .navbar-right {
