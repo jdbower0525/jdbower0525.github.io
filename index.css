@@ -7,6 +7,10 @@ body {
     padding-bottom:0 !important;
     height: 28px;
 }
+#logo {
+    width:4%;
+    height:4%;
+}
 .navbar-brand {
     padding-top:4px;
     padding-bottom:0;
