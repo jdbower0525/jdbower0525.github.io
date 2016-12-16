@@ -7,7 +7,13 @@ body {
     padding-bottom:0 !important;
     height: 28px;
 }
+.navbar-brand {
+    padding-top:4px;
+    padding-bottom:0;
+    height:28px;
+}
 .navbar {
+    max-height:28px;
     min-height:28px !important;
     background-color: #2b2b2b;
 }
