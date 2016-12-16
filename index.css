@@ -10,9 +10,13 @@ body {
 #navlinks {
     float: right;
 }
+#LinkedInLogo{
+    width: auto;
+    height: auto;
+}
 #FacebookLogo{
-    width:6%;
-    height:100%;
+    width:4%;
+    height:125%;
     background-color: lightgrey;
 }
 
