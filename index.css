@@ -9,18 +9,18 @@ body {
 }
 #logo {
     position:absolute;
-    width:4%;
-    height:100%;
+    width:2%;
+    height:95%;
 }
 .navbar-right {
     padding-top:4px;
     padding-bottom:0;
-    height:28px;
+    height:20px;
 }
 .navbar-brand {
     padding-top:4px;
     padding-bottom:0;
-    height:28px;
+    height:20px;
 }
 .navbar {
     max-height:32px;
