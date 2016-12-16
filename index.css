@@ -7,7 +7,7 @@ body {
     padding-bottom:0 !important;
     height: 20px;
 }
-#navlinks {
+.navlinks {
     padding-right:100px;
     float: right;
 }
