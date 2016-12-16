@@ -7,7 +7,10 @@ body {
     padding-bottom:0 !important;
     height: 28px;
 }
-.navbar {min-height:28px !important;}*/
+.navbar {
+    min-height:28px !important;
+    background-color: #2b2b2b;
+}
 
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
