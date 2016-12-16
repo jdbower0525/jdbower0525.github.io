@@ -15,12 +15,9 @@ body {
     height:100%;
     background-color: lightgrey;
 }
-#LinkedInLogo{
-    width: 28px;
-    height: 28px;
-}
+
 #logo {
-    width:4%;
+    width:5%;
     height:100%;
 }
 .navbar-right {
