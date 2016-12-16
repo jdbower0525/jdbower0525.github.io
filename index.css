@@ -18,17 +18,19 @@ body {
     height:100%;
 }
 .navbar-right {
+    position:absolute;
     padding-top:4px;
     padding-bottom:0;
-    position:relative;
     height:28px;
 }
 .navbar-brand {
+    position:absolute;
     padding-top:4px;
     padding-bottom:0;
     height:28px;
 }
 .navbar {
+    position:absolute;
     max-height:32px;
     min-height:28px !important;
     background-color: #2b2b2b;
