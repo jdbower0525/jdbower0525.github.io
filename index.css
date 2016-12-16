@@ -16,10 +16,11 @@ body {
     background-color: lightgrey;
 }
 #LinkedInLogo{
-    width: inherit;
+    width: 28px;
+    height: 28px;
 }
 #logo {
-    width:3%;
+    width:4%;
     height:100%;
 }
 .navbar-right {
