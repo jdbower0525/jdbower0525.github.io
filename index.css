@@ -15,8 +15,6 @@ body {
     max-height: 100%;
 }
 #splashname{
-    width:800px;
-    margin:0 auto;
     color: white;
 }
 #FacebookLogo{
@@ -27,6 +25,9 @@ body {
 #logo {
     width:3%;
     height:150%;
+}
+#menu {
+    color: white;
 }
 .navbar-right {
     padding-top:4px;
