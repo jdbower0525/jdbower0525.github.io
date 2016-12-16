@@ -7,6 +7,13 @@ body {
     padding-bottom:0 !important;
     height: 20px;
 }
+@media (max-width: 767px) {
+   h1 {
+      position: absolute;
+      left: 0;
+      right: 0;
+   }
+}
 #logo {
     width:4%;
     height:100%;
