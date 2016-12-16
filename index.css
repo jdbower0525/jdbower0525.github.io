@@ -10,6 +10,9 @@ body {
 #navlink {
     float: left;
 }
+#navlinks {
+    float: left;
+}
 #logo {
     position:absolute;
     width:4%;
