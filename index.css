@@ -17,7 +17,7 @@ body {
     transform: translateX(-50%) translateY(-50%);
 }
 #TwitterLogo{
-    width:10%;
+    width:6%;
 }
 #LinkedInLogo{
     max-width: 100%;
@@ -27,7 +27,7 @@ body {
     color: white;
 }
 #FacebookLogo{
-    width:6%;
+    width:5%;
     height:150%;
     background-color: lightgrey;
 }
