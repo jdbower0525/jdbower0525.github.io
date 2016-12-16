@@ -11,6 +11,11 @@ body {
     width:4%;
     height:100%;
 }
+.navbar-right {
+    padding-top:4px;
+    padding-bottom:0;
+    height:28px;
+}
 .navbar-brand {
     padding-top:4px;
     padding-bottom:0;
