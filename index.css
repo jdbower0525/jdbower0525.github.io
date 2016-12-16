@@ -15,14 +15,13 @@ body {
     max-height: 100%;
 }
 #FacebookLogo{
-    width:4%;
+    width:6%;
     height:125%;
     background-color: lightgrey;
 }
-
 #logo {
-    width:5%;
-    height:100%;
+    width:4%;
+    height:125%;
 }
 .navbar-right {
     padding-top:4px;
