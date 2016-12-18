@@ -8,9 +8,11 @@ body {
     height: 20px;
 }
 #navlinks {
+    display:inline-block;
     float: right;
 }
 .navbar-header{
+    display:inline-block;
     padding-top:4px !important;
     padding-bottom:0 !important;
     height: 20px;
