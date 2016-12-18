@@ -35,6 +35,9 @@ body {
     width:3%;
     height:150%;
 }
+#navbar{
+    display: inline-block;
+}
 #menu {
     color: white;
 }
