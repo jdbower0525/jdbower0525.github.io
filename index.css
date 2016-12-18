@@ -63,6 +63,11 @@ body {
     min-height:32px !important;
     background-color: #2b2b2b;
 }
+nav {
+    padding-top:4px !important;
+    padding-bottom:0 !important;
+    height: 28px;
+}
 li {
     padding-top:4px !important;
     padding-bottom:0 !important;
