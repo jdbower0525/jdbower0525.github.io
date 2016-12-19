@@ -19,6 +19,7 @@ nav{
 .container-fluid{
     padding-top:4px;
     padding-bottom:0px;
+    height:20px;
     max-height: 20px;
     display:inline-block;
 }
