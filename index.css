@@ -16,13 +16,6 @@ nav{
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
 }
-.container-fluid{
-    padding-top:4px;
-    padding-bottom:0px;
-    height:20px;
-    max-height: 20px;
-    display:inline-block;
-}
 .navbar{
     padding-top:4px;
     padding-bottom:0px;
