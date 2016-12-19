@@ -4,6 +4,10 @@ body {
 }
 nav{
     background-color: darkgrey;
+    padding-top:4px !important;
+    padding-bottom:0;
+    height: 20px;
+    max-height: 20px;
     display:inline-block;
 }
 .content {
