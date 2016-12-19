@@ -13,7 +13,7 @@ nav{
 .navbar-nav > li > a, .navbar-brand {
     padding-top:4px !important;
     padding-bottom:0 !important;
-    height: 20px;
+    max-height: 20px;
 }
 .content {
     position: absolute;
@@ -24,7 +24,6 @@ nav{
 .container-fluid{
     padding-top:4px;
     padding-bottom:0px;
-    height: 20px;
     max-height: 20px;
     display:inline-block;
 }
