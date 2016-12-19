@@ -44,11 +44,12 @@ nav{
 #FacebookLogo{
     float: right;
     display: inline-block;
-    width:3%;
+    width:100%;
     height:100%;
     background-color: lightgrey;
 }
 #logo {
-    width:3%;
+    display: inline-block;
+    width:100%;
     height:100%;
 }
