@@ -10,11 +10,6 @@ nav{
     max-height: 10px;
     display:inline-block;
 }
-.navbar-nav > li > a, .navbar-brand {
-    padding-top:4px !important;
-    padding-bottom:0 !important;
-    max-height: 20px;
-}
 .content {
     position: absolute;
     top: 50%;
