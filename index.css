@@ -4,7 +4,7 @@ body {
 }
 nav{
     background-color: darkgrey;
-    padding-top:4px;
+    padding-top:4px !important;
     padding-bottom:0;
     height: 10px;
     max-height: 10px;
@@ -32,8 +32,7 @@ nav{
     float: right;
 }
 #TwitterLogo{
-    max-width:100%;
-    max-height:100%;
+    width:5.5%;
 }
 #LinkedInLogo{
     max-width: 100%;
@@ -43,10 +42,11 @@ nav{
     color: white;
 }
 #FacebookLogo{
-    max-width:100%;
-    max-height:100%;
+    width:5.5%;
+    height:150%;
+    background-color: lightgrey;
 }
 #logo {
-    max-width:100%;
-    max-height:100%;
+    width:3%;
+    height:150%;
 }
