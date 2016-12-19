@@ -13,7 +13,6 @@ body {
 }
 .navbar-header{
     display:inline-block;
-    padding-top:4px !important;
     padding-bottom:0 !important;
     height: 20px;
 }
