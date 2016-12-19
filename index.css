@@ -29,7 +29,7 @@ nav{
 #TwitterLogo{
     float: right;
     display: inline-block;
-    width:5.5%;
+    width:4%;
 }
 #LinkedInLogo{
     float: right;
@@ -43,7 +43,7 @@ nav{
 #FacebookLogo{
     float: right;
     display: inline-block;
-    width:5.5%;
+    width:4%;
     height:150%;
     background-color: lightgrey;
 }
