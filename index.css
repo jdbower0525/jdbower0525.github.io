@@ -20,8 +20,8 @@ nav{
     padding-top:4px;
     padding-bottom:0px;
     height:10px;
-    min-height: 5px;
-    max-height: 20px;
+    min-height: 28px;
+    max-height: 28px;
     display:inline-block;
 }
 #navlinks {
