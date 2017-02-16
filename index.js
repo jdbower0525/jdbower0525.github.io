@@ -6,7 +6,7 @@ var btn1 = document.getElementById("myBtn1");
 var btn2 = document.getElementById("myBtn2");
 var btn3 = document.getElementById("myBtn3");
 var btn4 = document.getElementById("myBtn4");
-var span = document.getElementsByClassName("close")[0];
+var span = document.getElementsByClassName("close1")[0];
 
 btn1.onclick = function() {
     modal1.style.display = "block";
@@ -21,10 +21,10 @@ btn4.onclick = function() {
     modal4.style.display = "block";
 }
 span.onclick = function() {
-    modal.style.display = "none";
+    modal1.style.display = "none";
 }
 window.onclick = function(event) {
-    if (event.target == modal) {
+    if (event.target == modal1) {
         modal1.style.display = "none";
     }
 }
