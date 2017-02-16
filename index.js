@@ -30,10 +30,10 @@ span2.onclick = function() {
     modal2.style.display = "none";
 }
 span3.onclick = function() {
-    modal2.style.display = "none";
+    modal3.style.display = "none";
 }
 span4.onclick = function() {
-    modal2.style.display = "none";
+    modal4.style.display = "none";
 }
 window.onclick = function(event) {
     if (event.target == modal1) {
