@@ -20,9 +20,9 @@ btn2.onclick = function() {
 // btn3.onclick = function() {
 //     modal3.style.display = "block";
 // }
-// btn4.onclick = function() {
-//     modal4.style.display = "block";
-// }
+btn4.onclick = function() {
+    modal4.style.display = "block";
+}
 span1.onclick = function() {
     modal1.style.display = "none";
 }
@@ -32,9 +32,9 @@ span2.onclick = function() {
 // span3.onclick = function() {
 //     modal3.style.display = "none";
 // }
-// span4.onclick = function() {
-//     modal4.style.display = "none";
-// }
+span4.onclick = function() {
+    modal4.style.display = "none";
+}
 window.onclick = function(event) {
     if (event.target == modal1) {
         modal1.style.display = "none";
