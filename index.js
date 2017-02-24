@@ -17,9 +17,9 @@ btn1.onclick = function() {
 btn2.onclick = function() {
     modal2.style.display = "block";
 }
-// btn3.onclick = function() {
-//     modal3.style.display = "block";
-// }
+btn3.onclick = function() {
+    modal3.style.display = "block";
+}
 btn4.onclick = function() {
     modal4.style.display = "block";
 }
@@ -29,9 +29,9 @@ span1.onclick = function() {
 span2.onclick = function() {
     modal2.style.display = "none";
 }
-// span3.onclick = function() {
-//     modal3.style.display = "none";
-// }
+span3.onclick = function() {
+    modal3.style.display = "none";
+}
 span4.onclick = function() {
     modal4.style.display = "none";
 }
