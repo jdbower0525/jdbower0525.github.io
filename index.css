@@ -45,6 +45,34 @@ body {
 #myBtn{
     float: bottom;
 }
+#myBtn1{
+    color:#add8e6;
+}
+#myBtn2{
+    color:#add8e6;
+}
+#myBtn3{
+    color:#add8e6;
+}
+#myBtn4{
+    color:#add8e6;
+}
+#myBtn1:hover{
+    cursor: pointer;
+    color:white;
+}
+#myBtn2:hover{
+    cursor: pointer;
+    color:white;
+}
+#myBtn3:hover{
+    cursor: pointer;
+    color:white;
+}
+#myBtn4:hover{
+    cursor: pointer;
+    color:white;
+}
 
 .container-fluid{
     background-color: black;
